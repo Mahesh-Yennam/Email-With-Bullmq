@@ -1,6 +1,6 @@
-# Cache With Redis
+# Email With Bullmq
 
-Node.js, ejs, express, mongoose, ioredis, bullmq, resend, 
+Node.js, ejs, express, mongoose, ioredis, bullmq, resend
 
 npm i
 
